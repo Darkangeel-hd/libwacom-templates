@@ -1,3 +1,10 @@
+libwacom-addition (1.1)
+	
+  * Fixed the Intuos Pen & Touch Small Buttons Mapping.
+  * Fixed the Intuos Pen & Touch Small Buttons SVG.
+
+ -- DarkminecraferHD <DarkminecrafterHD@users.noreply.github.com>  Thu, 18 Feb 2016 22:40:32 +0100
+
 libwacom-addition (1.0)
 	
   * Added Libwacom as a submodule from the official repo of linuxwacom.
