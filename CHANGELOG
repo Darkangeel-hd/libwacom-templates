@@ -1,0 +1,5 @@
+libwacom-addition (1.0)
+	
+  * Added Libwacom as a submodule from the official repo of linuxwacom.
+
+ -- DarkminecraferHD <DarkminecrafterHD@users.noreply.github.com>  Thu, 18 Feb 2016 22:40:32 +0100

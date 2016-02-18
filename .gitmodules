@@ -1,0 +1,3 @@
+[submodule "libwacom"]
+	path = libwacom
+	url = git://git.code.sf.net/p/linuxwacom/libwacom
